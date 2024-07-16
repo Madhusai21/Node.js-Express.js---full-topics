@@ -1,1 +1,17 @@
+### Node.js:
 
+- [ ]  Solid understanding of JavaScript (variables, data types, operators, control flow, functions, error handling)
+- [ ]  Asynchronous Programming (callbacks, promises, async/await)
+- [ ]  Npm Package Manager
+- [ ]  Modules and Packages (require(), module.exports, npm)
+- [ ]  Event Loop and Event Emitters
+- [ ]  Streams
+- [ ]  File System (fs) module
+- [ ]  HTTP module
+- [ ]  Error Handling
+
+===========================================================================================================
+
+https://youtu.be/IAMgPmAUSUg?si=hjC0NBDW4U-9XBxs  full course link 
+
+----------------------------------------------------------------------
